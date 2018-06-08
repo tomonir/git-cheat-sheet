@@ -1,6 +1,7 @@
 # git-cheat-sheet
 
 HOW TO RUN:
+
 ./git_commands.sh -help
 
 other options :
