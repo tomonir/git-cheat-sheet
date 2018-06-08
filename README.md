@@ -5,8 +5,11 @@ HOW TO RUN
 Windows: 
 1. copy git_commands.sh to your git repository.
 2. open the git-bash.exe  from the following location [I assume git has been installed at C:\Program Files\Git\]
+
 C:\Program Files\Git\git-bash.exe
+
 3. go to the git repository using command line.
+
 4. ./git_commands.sh -help 
 
 OTHER OPTIONS:
